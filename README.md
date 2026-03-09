@@ -1,0 +1,2 @@
+# IERG3810
+2025-2026 Term 1 IERG3810 Lab and Project
