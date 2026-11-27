@@ -1,0 +1,28 @@
+# Keil MDK build output
+Objects/
+Listings/
+DebugConfig/
+*.o
+*.d
+*.crf
+*.dep
+*.lnp
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.htm
+*.iex
+*.sct
+*.build_log.htm
+
+# Keil per-user GUI settings / debug session files
+*.uvguix.*
+JLinkLog.txt
+JLinkSettings.ini
+
+# OS / editor junk
+Thumbs.db
+desktop.ini
+.DS_Store
