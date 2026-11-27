@@ -22,6 +22,10 @@ DebugConfig/
 JLinkLog.txt
 JLinkSettings.ini
 
+# 作业报告 / 提交归档，不上传
+Lab1-1155213082.pdf
+submitted/
+
 # OS / editor junk
 Thumbs.db
 desktop.ini
