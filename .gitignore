@@ -1,32 +1,5 @@
-# Keil MDK build output
-Objects/
-Listings/
-DebugConfig/
-*.o
-*.d
-*.crf
-*.dep
-*.lnp
-*.axf
-*.hex
-*.bin
-*.map
-*.lst
-*.htm
-*.iex
-*.sct
-*.build_log.htm
-
-# Keil per-user GUI settings / debug session files
-*.uvguix.*
-JLinkLog.txt
-JLinkSettings.ini
-
-# 作业报告 / 提交归档，不上传
-Lab1-1155213082.pdf
-submitted/
-
-# OS / editor junk
-Thumbs.db
-desktop.ini
-.DS_Store
+# 只跟踪课程作业代码目录
+/*
+!/lab/
+!/project/
+!/.gitignore
